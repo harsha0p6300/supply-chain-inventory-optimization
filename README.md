@@ -50,8 +50,7 @@ The dataset used in this project is the DataCo Smart Supply Chain Dataset, sourc
     </td>
     <td align="center" width="60"><h1>➡️</h1></td>
     <td align="center" width="180">
-      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="70" height="70" alt="Power BI"/><br/>
-      <b>Power BI</b><br/>
+<img src="assets/powerbi.png" height="70" alt="Power BI"/><br/>      <b>Power BI</b><br/>
       <sub>Interactive Dashboard & DAX Measures</sub>
     </td>
   </tr>
