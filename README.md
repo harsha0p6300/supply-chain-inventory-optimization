@@ -128,3 +128,9 @@ Late Delivery Rate by Shipping Mode: Compared delivery delays across different s
 
 ### PostgreSQL Connection to Power BI
 After completing the SQL-based analysis, PostgreSQL was connected to Power BI to establish a direct connection between the database and the reporting environment. The required tables and data were imported into Power BI
+
+<p align="center">
+  <img src="assets/SQL Connect.png"
+       width="100%"
+       alt="Profitablility-Flag using Python">
+</p>
