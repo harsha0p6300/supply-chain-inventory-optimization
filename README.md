@@ -63,3 +63,36 @@ The dataset used in this project is the DataCo Smart Supply Chain Dataset, sourc
 In this step, the raw CSV dataset containing 172,765 records and 52 columns was loaded into Jupyter Notebook using Python for initial data cleaning and preprocessing. The objective was to improve data quality, maintain consistency, handle data irregularities, and prepare the dataset for further analysis and database organization.
 
 Python Script:https://github.com/harsha0p6300/supply-chain-inventory-optimization/blob/main/Inventory%20Optimization%20Project%20End-to-ENd/supplychain.ipynb
+
+
+
+<p align="center">
+  <img src="assets/Data-Overview.png"
+       width="100%"
+       alt="Data-Overview using Python">
+</p>
+
+<p align="center">
+  <img src="assets/Data Cleaning.png"
+       width="100%"
+       alt="Data Cleaning using Python">
+</p>
+
+<p align="center">
+  <img src="assets/Creating new columns.png"
+       width="100%"
+       alt="Creating new columns using Python">
+</p>
+
+
+<p align="center">
+  <img src="assets/Kpi's Analysis.png"
+       width="100%"
+       alt="Profitablility-Flag using Python">
+</p>
+
+<p align="center">
+  <img src="assets/Profitability-visualizarion.png"
+       width="100%"
+       alt="Profitablility-Flag using Python">
+</p>
