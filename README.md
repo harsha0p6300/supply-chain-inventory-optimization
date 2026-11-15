@@ -103,4 +103,28 @@ After completing the data cleaning and preprocessing in Python, the cleaned data
 
 Sql file:https://github.com/harsha0p6300/supply-chain-inventory-optimization/blob/main/Inventory%20Optimization%20Project%20End-to-ENd/Supply_chain.sql
 
+<p align="center">
+  <img src="assets/Creating Database.png"
+       width="100%"
+       alt="Profitablility-Flag using Python">
+</p>
 
+Product Category Profitability: Identified which product categories generated the highest profits and which incurred losses to evaluate category-level financial performance.
+
+<p align="center">
+  <img src="assets/categories generate pl.png"
+       width="100%"
+       alt="Profitablility-Flag using Python">
+</p>
+
+Late Delivery Rate by Shipping Mode: Compared delivery delays across different shipping modes to identify shipping methods associated with higher late delivery rates.
+
+
+<p align="center">
+  <img src="assets/Shipping mode-rate.png"
+       width="100%"
+       alt="Profitablility-Flag using Python">
+</p>
+
+### PostgreSQL Connection to Power BI
+After completing the SQL-based analysis, PostgreSQL was connected to Power BI to establish a direct connection between the database and the reporting environment. The required tables and data were imported into Power BI
