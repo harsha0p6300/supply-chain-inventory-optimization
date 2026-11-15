@@ -100,3 +100,5 @@ Python Script:https://github.com/harsha0p6300/supply-chain-inventory-optimizatio
 
 ##  Step 1: Data Loading – PostgreSQL
 After completing the data cleaning and preprocessing in Python, the cleaned dataset was imported into a newly created PostgreSQL database for structured data management and SQL-based analysis. This established a centralized database environment for organizing the data and performing further business analysis.
+
+Sql file:https://github.com/harsha0p6300/supply-chain-inventory-optimization/blob/main/Inventory%20Optimization%20Project%20End-to-ENd/Supply_chain.sql
