@@ -48,11 +48,12 @@ The dataset used in this project is the DataCo Smart Supply Chain Dataset, sourc
       <b>PostgreSQL</b><br/>
       <sub>Data Storage & Business KPIs</sub>
     </td>
-<td align="center" width="180">
-  <img src="https://skillicons.dev/icons?i=powerbi" width="70" height="70" alt="Power BI"/><br/>
-  <b>Power BI</b><br/>
-  <sub>Interactive Dashboard & DAX Measures</sub>
-</td>
+    <td align="center" width="60"><h1>➡️</h1></td>
+    <td align="center" width="180">
+      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="70" height="70" alt="Power BI"/><br/>
+      <b>Power BI</b><br/>
+      <sub>Interactive Dashboard & DAX Measures</sub>
+    </td>
   </tr>
 </table>
 </p>
