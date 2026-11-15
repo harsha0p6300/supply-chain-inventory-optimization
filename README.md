@@ -140,3 +140,27 @@ After connecting PostgreSQL to Power BI, the data was transformed to create an i
 
 ## 1. Executive Overview
 Provides a high-level summary of overall business performance through key metrics such as Total Sales, Total Profit, Profit Margin, Order Count, On-Time Delivery Rate, and Average Delay Days.
+
+<p align="center">
+  <img src="assets/Overview.png"
+       width="100%"
+       alt="Profitablility-Flag using Python">
+</p>
+
+## 2. Delivery Performance
+Focuses on shipping and delivery efficiency by analyzing late delivery rates, delayed orders, average delivery delays, shipping mode performance, and regional delivery patterns.
+
+<p align="center">
+  <img src="assets/Delivery.png"
+       width="100%"
+       alt="Profitablility-Flag using Python">
+</p>
+
+## 3. Profitability & Customer Analysis
+Evaluates financial performance and customer contributions through profit by product category, average discount rate, profit per order, sales per customer, and customer segment analysis.
+
+<p align="center">
+  <img src="assets/Profitability.png"
+       width="100%"
+       alt="Profitablility-Flag using Python">
+</p>
