@@ -126,7 +126,7 @@ Late Delivery Rate by Shipping Mode: Compared delivery delays across different s
        alt="Profitablility-Flag using Python">
 </p>
 
-### PostgreSQL Connection to Power BI
+## PostgreSQL Connection to Power BI
 After completing the SQL-based analysis, PostgreSQL was connected to Power BI to establish a direct connection between the database and the reporting environment. The required tables and data were imported into Power BI
 
 <p align="center">
@@ -134,3 +134,9 @@ After completing the SQL-based analysis, PostgreSQL was connected to Power BI to
        width="100%"
        alt="Profitablility-Flag using Python">
 </p>
+
+## Power BI Dashboard
+After connecting PostgreSQL to Power BI, the data was transformed to create an interactive, multi-page dashboard. DAX measures were developed to calculate key performance indicators (KPIs) and support detailed analysis of sales, profitability, and delivery performance.
+
+## 1. Executive Overview
+Provides a high-level summary of overall business performance through key metrics such as Total Sales, Total Profit, Profit Margin, Order Count, On-Time Delivery Rate, and Average Delay Days.
