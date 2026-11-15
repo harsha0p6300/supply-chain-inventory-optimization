@@ -61,3 +61,5 @@ The dataset used in this project is the DataCo Smart Supply Chain Dataset, sourc
 
 ##  Step 1: Data Cleaning & Transformation
 In this step, the raw CSV dataset containing 181,765 records and 51 columns was loaded into Jupyter Notebook using Python for initial data cleaning and preprocessing. The objective was to improve data quality, maintain consistency, handle data irregularities, and prepare the dataset for further analysis and database organization.
+
+Python Script:https://github.com/harsha0p6300/supply-chain-inventory-optimization/blob/main/Inventory%20Optimization%20Project%20End-to-ENd/supplychain.ipynb
