@@ -21,7 +21,7 @@ categories or customer segments deserve further investigation.
 
 ## Dataset Used
 
-The dataset contains information about orders, customers, products, sales, profitability, shipping modes, and delivery performance.
+The dataset used in this project is the DataCo Smart Supply Chain Dataset, sourced from Kaggle. It contains comprehensive supply chain and e-commerce operational data, covering order transactions, customer information, product details, sales, profitability, shipping operations, and delivery performance.
 
 - DataCo Supply Chain Dataset – Kaggle([https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis](https://www.kaggle.com/code/shashankmkadiwal/dataco-smart-supply-chain-eda/input))
 
