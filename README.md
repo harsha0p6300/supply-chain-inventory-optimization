@@ -96,3 +96,6 @@ Python Script:https://github.com/harsha0p6300/supply-chain-inventory-optimizatio
        width="100%"
        alt="Profitablility-Flag using Python">
 </p>
+
+
+##  Step 1: Data Loading – PostgreSQL
