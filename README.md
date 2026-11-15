@@ -38,19 +38,19 @@ The dataset contains information about orders, customers, products, sales, profi
 <table align="center">
   <tr>
     <td align="center" width="180">
-      <img src="https://cdn.simpleicons.org/python/3776AB" width="70" height="70" alt="Python"/><br/>
+      <img src="https://skillicons.dev/icons?i=python" width="70" height="70" alt="Python"/><br/>
       <b>Python</b><br/>
       <sub>Data Cleaning, Feature Engineering & EDA</sub>
     </td>
     <td align="center" width="60"><h1>➡️</h1></td>
     <td align="center" width="180">
-      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="70" height="70" alt="PostgreSQL"/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres" width="70" height="70" alt="PostgreSQL"/><br/>
       <b>PostgreSQL</b><br/>
       <sub>Data Storage & Business KPIs</sub>
     </td>
     <td align="center" width="60"><h1>➡️</h1></td>
     <td align="center" width="180">
-      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="70" height="70" alt="Power BI"/><br/>
+      <img src="https://skillicons.dev/icons?i=powerbi" width="70" height="70" alt="Power BI"/><br/>
       <b>Power BI</b><br/>
       <sub>Interactive Dashboard & DAX Measures</sub>
     </td>
